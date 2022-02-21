@@ -1,0 +1,9 @@
+@import url(fonts.scss);
+
+body {
+  font-family: "font-family: 'Open Sans', sans-serif;";
+}
+
+@supports (-webkit-appearance:none) {
+
+}
